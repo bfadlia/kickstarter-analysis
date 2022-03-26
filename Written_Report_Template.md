@@ -17,7 +17,7 @@ Some of the challenges:
 Results of Outcome based on Launch dates shows that:
 - Campains are more likely to succed in the April-August time frame. Perhaps people are more eager to participate and are in a better mood in the nice Summer season
 - Campaign have highest chance of failure in December. This may be due to the holiday season and being stressed financially by holiday shopping to donate to the campaigns.
-(Outcomes_vs_Goals.png)
+- ![IMAGE_DESCRIPTION](Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Goals
 
