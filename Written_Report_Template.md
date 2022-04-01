@@ -31,9 +31,11 @@ Results and conclusions of Outcomes Based on Goals:
 ### Challenges and Difficulties Encountered
 
 - What are some limitations of this dataset?
+- 
   The data is the dataset is not recent. The most recent data is from 2017. So, if Louise is launching her campaign now she may not see recent changes in audience responses and changes in the environment (like COVID limiting events and gathering)
   
 - What are some other possible tables and/or graphs that we could create?
+- 
   A table with descriptive statistics would give a quick and useful overview of the trends and outcomes
   
   - ![IMAGE_DESCRIPTION](descriptive.png)
