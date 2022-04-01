@@ -22,7 +22,7 @@ Results and conclusions of Outcome based on Launch dates shows that:
 
 
 ### Analysis of Outcomes Based on Goals
-- ![IMAGE_DESCRIPTION](Outcomes_vs_Goals.png)
+
 Results and conclusions of Outcomes Based on Goals:
 - Campaigns has the highest percentage of success with a goal less than $1000 or when the goal is between $40,000 and $45,000
 - Avoid goals of $25,000 and $30,000 and also over $45,000. Campaigns with these goals have higher chance of failure.
